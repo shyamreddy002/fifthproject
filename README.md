@@ -1,10 +1,12 @@
-# fifthproject
+i# fifthproject
 we are createing new concepts
 not intereted
 but we now very well concept
 Collections module implements specialized container datatypes providing alternatives to Python's general purpose built-in containers, dict, list, set, and tuple.
 
-1. Write a Python program that iterate over elements repeating each as many times as its count. Go to the editor
+we are very usser friendly
+
+1. Write a Python  that iterate over elements repeating each as many times as its count. Go to the editor
 Sample Output: ['p', 'p', 'p', 'p', 'q', 'q']
 Click me to see the sample solution
 
